@@ -113,4 +113,4 @@ insert into leaf_alloc(biz_tag, max_id, step, description) values('leaf-segment-
 
 Detail Branch change something...
 
-Master test conflict.
+Common test conflict.
