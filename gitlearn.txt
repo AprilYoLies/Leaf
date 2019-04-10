@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Fix the bug.
 I am doing my work,but there is a bug to be fixed.
 Master did some change.
+Master did some change again.
